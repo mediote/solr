@@ -1,4 +1,5 @@
 [![PyPI - Python](https://img.shields.io/badge/python-v3.6+-blue.svg)](https://pypi.org/project/bertopic/)
+[![PyPI - Solr](https://img.shields.io/badge/Apache-Solr-orange)](https://solr.apache.org/)
 [![PyPI - License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/mediote/twAnalytics/blob/main/LICENSE)
 
 # Apache Solr
