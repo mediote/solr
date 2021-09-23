@@ -104,3 +104,9 @@ $ sudo service solr stop
 ```bash
 $ sudo service solr status
 ``` 
+
+## Como o Solr funciona?
+
+Solr funciona reunindo, armazenando e indexando documentos de diferentes fontes e tornando-os pesquisáveis quase em tempo real. Ele segue um processo de 3 etapas que envolve indexação, consulta e, finalmente, classificação dos resultados - tudo em tempo quase real, embora possa funcionar com grandes volumes de dados.
+
+Mais especificamente, aqui está como Solr executa as seguintes operações em uma sequência para pesquisar um documento:
