@@ -104,7 +104,7 @@ $ sudo service solr stop
 $ sudo service solr status
 ``` 
 
-A interface de administração do Solr pode ser acessada no [endereço](http://localhost:8983]).
+A interface de administração do Solr pode ser acessada em [http://localhost:8983].
 
 ## Como o Solr funciona?
 
