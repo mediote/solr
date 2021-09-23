@@ -40,12 +40,17 @@ Na linha abaixo, o Solr é baixado no diretório /opt.
 
 ```bash
 $ cd /opt
+``` 
+```bash
 $ sudo wget https://downloads.apache.org/lucene/solr/8.9.0/solr-8.9.0.tgz
 ``` 
+
 Após baixado, os comandos a seguir extraem e instalam o solr como um serviço no sistema operacional.
 
 ```bash
 $ tar xzf solr-8.9.0.tgz solr-8.9.0/bin/install_solr_service.sh --strip-components=2
+``` 
+```bash
 $ sudo bash ./install_solr_service.sh solr-8.9.0.tgz
 ``` 
 
@@ -55,7 +60,10 @@ Com o Solr configurado como um serviço no sistema operacional, podemos simplesm
 
 ```bash
 $ sudo service solr start
-$ sudo service solr stop
-$  sudo service solr status
 ``` 
- 
+```bash
+$ sudo service solr stop
+``` 
+```bash
+$ sudo service solr status
+``` 
