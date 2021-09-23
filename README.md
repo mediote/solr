@@ -52,7 +52,6 @@ O Solr é usado como mecanismo de busca nas maiores empresas da Internet, proven
 
 * Veja a [lista](https://wiki.apache.org/solr/PublicServers) de empresas que usam Solr.
 
- 
 ## Instalação
 
 O Solr pode ser instalado em sistemas GNU/Linux, macOS e Windows. Neste trabalho, foi instalada a versão 8.9.0 do Solr foi no sistema operacional Ubuntu 20.04
@@ -105,7 +104,7 @@ $ sudo service solr stop
 $ sudo service solr status
 ``` 
 
-A interface de administração do Solr pode ser acessada no [endereço](http://localhost:8983/solr].
+A interface de administração do Solr pode ser acessada no [endereço](http://localhost:8983/solr]).
 
 ## Como o Solr funciona?
 
