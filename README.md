@@ -13,16 +13,24 @@ Os principais recursos do Solr, incluem: busca textual, hit highlighting, busca 
 Como o Solr é baseado em padrões abertos, ele é altamente extensível. As consultas Solr são solicitações HTTP simples e a resposta é um documento estruturado: principalmente JSON, mas também pode ser XML, CSV ou outros formatos, como: xml, json, csv, pdf, doc, docx, ppt, pptx, xls, xlsx, odt, odp, ods, ott, otp, ots, rtf, htm, html, txt e log. 
 Isso significa que uma ampla variedade de clientes será capaz de usar o Solr, de outros aplicativos da web a clientes de navegador, aplicativos de cliente rico e dispositivos móveis. Qualquer plataforma capaz de HTTP pode se comunicar com o Solr. 
 Instalação
-O Solr pode ser instalado em sistemas GNU/Linux, macOS e Windows. Neste trabalho o Solr foi instalado no Ubuntu 20.04
+
  
 # Instalação
 
+O Solr pode ser instalado em sistemas GNU/Linux, macOS e Windows. Neste trabalho o Solr foi instalado no Ubuntu 20.04
+
 ### Passo 1 - Instalando o Java
-Como é desenvolvido em Java, será preciso instalar o Ambiente de Exucação Java (JRE ou Java Runtime Environment) 1.8 ou superior. 
-sudo apt install openjdk-11-jdk
- 
-   Verificando se o Java já está instalado
+O Solr é desenvolvido em Java, então será preciso instalar o Ambiente de Exucação Java (JRE ou Java Runtime Environment) 1.8 ou superior. 
+
+```bash
+$ jsudo apt install openjdk-11-jdk
+``` 
+Verificando se o Java já está instalado
+
+```bash
 $ java -version
+``` 
+
 
 ### Passo 2 - Instalando o Solr no Ubuntu
 O procedimento de instalação do Solr detalhado a seguir, foi executado no sistema operacional Ubuntu 20.04 e, basicamente, se resume a baixar e descompactar o Solr.
