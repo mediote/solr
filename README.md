@@ -157,3 +157,10 @@ Através de uma requisição HTTP a URL http://localhost:8983/solr/fsp/select?q.
 ### Passo 3 - Ranqueamento
 
 O Solr classifica os resultados por sua pontuação de relevância - os resultados mais relevantes aparecem no topo dos documentos correspondidos.
+
+
+## Avaliação
+
+Para avaliar a qualidade de um sistema de IR, é necessário rodar um número significativo de consultas (pelo menos 30) e calcular métricas de avalição
+para as mesmas. As consultas utilizadas em campanhas de avaliação são comumente chamadas de tópicos. Um tópico é representado por uma estrutura que possui um número de identificação, um título, uma descrição e uma narrativa. O título é uma descrição bastante sucinta do tópico. A descrição fornece um pouco
+mais de detalhe e a narrativa auxilia as pessoas que produzem os julgamentos de relevância a distinguir documentos relevantes de não relevantes.
