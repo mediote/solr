@@ -106,7 +106,7 @@ $ sudo service solr status
 
 Se tudo ocorrer bem, a interface de administração do Solr pode ser acessada em http://localhost:8983.
 
-## Como o Solr funciona?
+## Solr na prática
 
 Solr funciona reunindo, armazenando e indexando documentos de diferentes fontes e tornando-os pesquisáveis quase em tempo real. Ele segue um processo de 3 etapas que envolve indexação, consulta e, finalmente, ranqueamento dos resultados - tudo em tempo quase real, embora possa funcionar com grandes volumes de dados.
 
