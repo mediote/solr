@@ -53,7 +53,7 @@ $ tar xzf solr-8.9.0.tgz solr-8.9.0/bin/install_solr_service.sh --strip-componen
 $ sudo bash ./install_solr_service.sh solr-8.9.0.tgz
 ``` 
 
-### Passo 3 - Solar Start / Stop / Status 
+### Passo 3 - Solr Start / Stop / Status 
 
 Após configuradar o Solr como um serviço, podemos simplesmente usar os comandos abaixo para iniciar, parar e checar seu status: 
 
