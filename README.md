@@ -18,7 +18,7 @@ No entanto, para entender completamente como usá-lo, abaixo estão alguns dos p
 
 ## Recursos
 
-*<b>Full-text Search:</b> O Solr fornece recursos avançados de pesquisa em tempo real,como pesquisa por campo, consultas booleanas, consultas de frase, consultas difusas, verificação ortográfica, curingas, junções, agrupamento, preenchimento automático e muito mais em diferentes tipos de dados.
+* <b>Full-text Search:</b> O Solr fornece recursos avançados de pesquisa em tempo real,como pesquisa por campo, consultas booleanas, consultas de frase, consultas difusas, verificação ortográfica, curingas, junções, agrupamento, preenchimento automático e muito mais em diferentes tipos de dados.
 
 ### Interfaces de administração 
 
