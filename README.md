@@ -105,8 +105,48 @@ $ sudo service solr stop
 $ sudo service solr status
 ``` 
 
+A interface de administração do Solr pode ser acessada no [endereço](http://localhost:8983/solr].
+
 ## Como o Solr funciona?
 
 Solr funciona reunindo, armazenando e indexando documentos de diferentes fontes e tornando-os pesquisáveis quase em tempo real. Ele segue um processo de 3 etapas que envolve indexação, consulta e, finalmente, classificação dos resultados - tudo em tempo quase real, embora possa funcionar com grandes volumes de dados.
 
 Mais especificamente, aqui está como Solr executa as seguintes operações em uma sequência para pesquisar um documento:
+
+
+### Passo 1: Criando a Coleção e Indexando Aquivos
+
+Execute o comando abaixo para criar a coleção, levando em consideração o diretório no qual o Solr foi instalado:
+
+```bash
+$ sudo su - solr -c "/opt/solr/bin/solr create -c mycol1 -n data_driven_schema_configs"
+``` 
+
+Execute comando abaixo para indexar 
+
+### Passo 2: 
+
+
+### Passo 3:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
