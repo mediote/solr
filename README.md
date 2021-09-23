@@ -39,12 +39,6 @@ O Solr é usado como mecanismo de busca nas maiores empresas da Internet, proven
 
 * Veja a [lista](https://wiki.apache.org/solr/PublicServers) de empresas que usam Solr.
 
-### Recursos
-Os principais recursos do Solr, incluem: busca textual, hit highlighting, busca facetada e analítica, indexação em tempo real, rich document parsing, busca geoespacial, extensive REST APIs bem como parallel SQL. Solr é de nível empresarial, seguro e altamente escalável, fornecendo pesquisa e indexação distribuída tolerante a falhas em escalas extremamente grandes de dados. 
-Como o Solr é baseado em padrões abertos, ele é altamente extensível. As consultas Solr são solicitações HTTP simples e a resposta padrão é um documento no formato JSON, mas também pode ser em outros formatos, como: xml, csv, pdf, doc, docx, ppt, pptx, xls, xlsx, odt, odp, ods, ott, otp, ots, rtf, htm, html, txt e log. 
-Isso significa que uma ampla variedade de clientes será capaz de usar o Solr, de outros aplicativos da web a clientes de navegador, aplicativos de cliente rico e dispositivos móveis. Qualquer plataforma capaz de HTTP pode se comunicar com o Solr. 
-Instalação
-
  
 # Instalação
 
