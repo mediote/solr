@@ -1,6 +1,6 @@
-# Introdução
+# Apache Solr
 
-Solr é uma plataforma de pesquisa de código aberto rápida desenvolvida sobre o Apache Lucene ™. Fornecendo pesquisa distribuída e replicação de índice, o Solr foi projetado para escalabilidade e tolerância a falhas. O Solr é amplamente usado para casos de uso de pesquisa e análise corporativa e tem uma comunidade de desenvolvimento ativa e versões regulares.
+O Apache Solr é uma plataforma de pesquisa de código aberto rápida desenvolvida sobre o Apache Lucene ™. Fornecendo pesquisa distribuída e replicação de índice, o Solr foi projetado para escalabilidade e tolerância a falhas. O Solr é amplamente usado para casos de uso de pesquisa e análise corporativa e tem uma comunidade de desenvolvimento ativa e versões regulares.
  
 ### Quem usa
 
