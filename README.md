@@ -46,14 +46,14 @@ Antes de mergulhar no processo de funcionamento do Solr, é importante entender 
 
 * <b>Cacho:</b> Específico para SolrCloud, um cluster é composto de um ou mais nós que armazenam todos os dados, fornecendo indexação distribuída e recursos de pesquisa em todos os nós. Leia mais sobre SolrCloud aqui.
 
-### Quem usa
+## Quem usa
 
 O Solr é usado como mecanismo de busca nas maiores empresas da Internet, provendo uma poderosa ferramenta de busca aos usuários. Entre essas empresas estão gigantes como a Apple, Netflix, Disney, AT&T, CNET, Cisco, AOL, NASA, MTV, Goldman Sachs, Cloudspace, Sears, GameSpot, eHarmony, TicketMaster, The Guardian, eBay, StubHub, IBM, Adobe, Best Buy, DuckDuckGo, Instagram e a Casa Branca (sede do governo dos EUA).
 
 * Veja a [lista](https://wiki.apache.org/solr/PublicServers) de empresas que usam Solr.
 
  
-# Instalação
+## Instalação
 
 O Solr pode ser instalado em sistemas GNU/Linux, macOS e Windows. Neste trabalho, foi instalada a versão 8.9.0 do Solr foi no sistema operacional Ubuntu 20.04
 
