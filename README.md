@@ -104,7 +104,7 @@ $ sudo service solr stop
 $ sudo service solr status
 ``` 
 
-A interface de administração do Solr pode ser acessada em http://localhost:8983.
+Se tudo ocorrer bem, a interface de administração do Solr pode ser acessada em http://localhost:8983.
 
 ## Como o Solr funciona?
 
@@ -127,30 +127,11 @@ O Solr inclui a ferramenta em bin/post para facilitar a indexação de vários t
 $ /opt/solr/bin/post -c meusarquivos diretoriodosarquivos/*
 ``` 
 
-
 ### Passo 2 - Consulta 
 
+As consultas no Solr, podem ser feitas diretamente pelo painel de administração, ou usando o manipulador de consulta. Através de uma requisição HTTP a URL
+http://localhost:8983/solr/fsp/select?q.op=OR&q=TEXT%3A%20Ayrton%20Senna por exemplo, foi executada uma consulta sobre o campo "TEXT" usando como argumentos de busca os termos "Ayrton Senna". O retorno por padrão são os documentos com campos chave-vaor no formato JSON.
 
 ### Passo 3 - Ranqueamento
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+O Solr classifica os resultados por sua pontuação de relevância - os resultados mais relevantes aparecem no topo dos documentos correspondidos.
