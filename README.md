@@ -14,7 +14,7 @@ As consultas no Solr, são solicitações HTTP simples e a resposta padrão é u
 
 Resumindo, o Solr é uma plataforma de pesquisa estável, confiável e tolerante a falhas com um rico conjunto de funções básicas que permitem melhorar a experiência do usuário e a modelagem de dados subjacente. Por exemplo, entre as funcionalidades que ajudam a oferecer uma boa experiência do usuário, podemos nomear verificação ortográfica, pesquisa geoespacial, facetação ou sugestão automática, enquanto os desenvolvedores de back-end podem se beneficiar de recursos como junções, agrupamento, capacidade de importar formatos de documentos ricos e muitos mais.
 
-No entanto, para entender completamente como usá-lo, abaixo estão os principais recursos do Solr:
+No entanto, para entender completamente como usá-lo, abaixo estão alguns dos principais recursos do Solr:
 
 ### Full-text Search
 
