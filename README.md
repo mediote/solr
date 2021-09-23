@@ -129,8 +129,7 @@ $ /opt/solr/bin/post -c meusarquivos diretoriodosarquivos/*
 
 ### Passo 2 - Consulta 
 
-As consultas no Solr, podem ser feitas diretamente pelo painel de administração, ou usando o manipulador de consulta. 
-Através de uma requisição HTTP a URL http://localhost:8983/solr/fsp/select?q.op=OR&q=TEXT%3AAyrton%20Senna por exemplo, foi feita uma consulta sobre o campo "TEXT" usando como argumentos de busca os termos "Ayrton Senna". O retorno por padrão são os documentos mais relevantes com campos chave-valor no formato JSON conforme abaixo:
+As consultas no Solr, podem ser feitas diretamente pelo painel de administração, ou usando o manipulador de consulta. Através de uma requisição HTTP a URL http://localhost:8983/solr/fsp/select?q.op=OR&q=TEXT%3AAyrton%20Senna por exemplo, foi feita uma consulta sobre o campo "TEXT" usando como argumentos de busca os termos "Ayrton Senna". O retorno por padrão são os documentos mais relevantes com campos chave-valor no formato JSON conforme abaixo:
 
 ```json
 {
