@@ -44,7 +44,7 @@ $ cd /opt
 $ sudo wget https://downloads.apache.org/lucene/solr/8.9.0/solr-8.9.0.tgz
 ``` 
 
-Após baixado, os comandos a seguir extraem e instalam respectivamente, o solr como um serviço no sistema operacional.
+Após baixado, os comandos a seguir, extraem e instalam o solr como um serviço no sistema operacional.
 
 ```bash
 $ tar xzf solr-8.9.0.tgz solr-8.9.0/bin/install_solr_service.sh --strip-components=2
@@ -55,7 +55,7 @@ $ sudo bash ./install_solr_service.sh solr-8.9.0.tgz
 
 ### Passo 3 - Solar Start / Stop / Status 
 
-Com o Solr configurado como um serviço no sistema operacional, podemos simplesmente usar os comandos abaixo para iniciar, parar e checar seu status: 
+Após configuradar o Solr como um serviço, podemos simplesmente usar os comandos abaixo para iniciar, parar e checar seu status: 
 
 ```bash
 $ sudo service solr start
