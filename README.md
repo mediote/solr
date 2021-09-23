@@ -118,7 +118,7 @@ Mais especificamente, aqui está como Solr executa as seguintes operações em u
 Execute o comando abaixo para criar a coleção, levando em consideração o diretório no qual o Solr foi instalado:
 
 ```bash
-$ sudo su - solr -c "/opt/solr/bin/solr create -c mycol1 -n data_driven_schema_configs"
+$ sudo su - solr -c "/opt/solr/bin/solr create -c minhacolecao -n data_driven_schema_configs"
 ``` 
 
 Execute comando abaixo para indexar 
