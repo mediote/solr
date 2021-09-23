@@ -38,9 +38,9 @@ Antes de mergulhar no processo de funcionamento do Solr, é importante entender 
 
 * <b>Fragmento:</b> Os fragmentos permitem que você divida e armazene seu índice em uma ou mais partes, portanto, um fragmento é uma fatia de uma coleção. Cada fragmento vive em um nó e é hospedado em um núcleo.
 
-* <b>Nó</b> É uma única instância da JVM executando Solr, também conhecido como servidor Solr. Um nó pode hospedar vários fragmentos.
+* <b>Nó:</b> É uma única instância da JVM executando Solr, também conhecido como servidor Solr. Um nó pode hospedar vários fragmentos.
 
-* <b>Réplica</b> Uma réplica é uma cópia física de um shard executado como um núcleo em um nó. Uma dessas cópias é um líder (veja abaixo). Outras cópias do mesmo fragmento replicarão os dados do líder. Leia mais sobre os tipos de réplicas e replicação Solr aqui:
+* <b>Réplica:</b> Uma réplica é uma cópia física de um shard executado como um núcleo em um nó. Uma dessas cópias é um líder (veja abaixo). Outras cópias do mesmo fragmento replicarão os dados do líder. Leia mais sobre os tipos de réplicas e replicação Solr aqui:
 
 * <b>Líderes:</b> O líder é uma réplica do fragmento que envia solicitações do SolrCloud para o resto das réplicas no fragmento sempre que houver uma atualização de índice, como adições ou exclusões de documentos. Se o líder cair, uma das outras réplicas será eleita líder automaticamente.
 
