@@ -23,22 +23,16 @@ O Solr pode ser instalado em sistemas GNU/Linux, macOS e Windows. Neste trabalho
 
 Você precisará do Java Runtime Environment (JRE) versão 1.8 ou superior. Em uma linha de comando, verifique sua versão do Java desta forma:
 
-#### Verificando se o Java já está instalado
-
 ```bash
 $ java -version
 ``` 
-A saída exata irá variar, mas você precisa se certificar de que atende ao requisito mínimo de versão.
-
-#### Instalando a JRE
-
-O Java está disponível em vários provedores. São recomendadas as versões OpenJDK e Oracle do Java. Alguns são gratuitos, outros têm um custo, alguns fornecem patches de segurança e suporte, outros não.
+A saída exata irá variar, mas você precisa se certificar de que atende ao requisito mínimo de versão. O Java está disponível em vários provedores. São recomendadas as versões OpenJDK e Oracle do Java. Alguns são gratuitos, outros têm um custo, alguns fornecem patches de segurança e suporte, outros não. Para instalar a JRE, execute o comando a seguir:
 
 ```bash
 $ sudo apt install openjdk-11-jdk
 ``` 
 
-Com a JRE instalada corretamento podemos prosseguir para os prórximos passos da instalação.
+Com a JRE instalada corretamente, podemos prosseguir para os prórximos passos da instalação.
 
 ### Passo 2 - Instalando o Solr no Ubuntu
 O procedimento de instalação do Solr detalhado a seguir, foi executado no sistema operacional Ubuntu 20.04 e, basicamente, se resume a baixar e descompactar o Solr.
