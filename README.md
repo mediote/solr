@@ -35,15 +35,14 @@ $ sudo apt install openjdk-11-jdk
 Com a JRE instalada corretamente, podemos prosseguir para os prórximos passos da instalação.
 
 ### Passo 2 - Instalando o Solr no Ubuntu
-O procedimento de instalação do Solr detalhado a seguir, foi executado no sistema operacional Ubuntu 20.04 e, basicamente, se resume a baixar e descompactar o Solr.
- 
-#### Baixando o Solr
+O procedimento de instalação do Solr detalhado a seguir, foi executado no sistema operacional Ubuntu 20.04 e, basicamente, se resume a baixar e descompactar o Solr em algum diretŕorio de sua preferência. 
+Na linha abaixo, o Solr é baixado no diretório /opt.
 
 ```bash
 $ cd /opt
 $ sudo wget https://downloads.apache.org/lucene/solr/8.9.0/solr-8.9.0.tgz
 ``` 
-#### Descompactando e instalando 
+Após baixado, os comandos a seguir extraem e instalam o solr como um serviço no sistema operacional.
 
 ```bash
 $ tar xzf solr-8.9.0.tgz solr-8.9.0/bin/install_solr_service.sh --strip-components=2
@@ -52,9 +51,11 @@ $ sudo bash ./install_solr_service.sh solr-8.9.0.tgz
 
 ### Passo 3 - Start / Stop Solr 
 
+Com o Solr configurado como um serviço no sistema operacional, podemos simplesmente usar os comandos abaixo para iniciar, parar e charcar seu status. 
+
 ```bash
-$  sudo service solr stop
-$  sudo service solr start
+$ sudo service solr start
+$ sudo service solr stop
 $  sudo service solr status
 ``` 
  
