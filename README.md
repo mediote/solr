@@ -108,25 +108,30 @@ A interface de administração do Solr pode ser acessada no [endereço](http://l
 
 ## Como o Solr funciona?
 
-Solr funciona reunindo, armazenando e indexando documentos de diferentes fontes e tornando-os pesquisáveis quase em tempo real. Ele segue um processo de 3 etapas que envolve indexação, consulta e, finalmente, classificação dos resultados - tudo em tempo quase real, embora possa funcionar com grandes volumes de dados.
+Solr funciona reunindo, armazenando e indexando documentos de diferentes fontes e tornando-os pesquisáveis quase em tempo real. Ele segue um processo de 3 etapas que envolve indexação, consulta e, finalmente, ranqueamento dos resultados - tudo em tempo quase real, embora possa funcionar com grandes volumes de dados.
 
 Mais especificamente, aqui está como Solr executa as seguintes operações em uma sequência para pesquisar um documento:
 
 
-### Passo 1: Criando a Coleção e Indexando Aquivos
+### Passo 1 - Indexação de Arquivos
 
-Execute o comando abaixo para criar a coleção, levando em consideração o diretório no qual o Solr foi instalado:
+Execute o comando abaixo para criar a coleção usando levando em consideração o diretório no qual o Solr foi instalado:
 
 ```bash
 $ sudo su - solr -c "/opt/solr/bin/solr create -c minhacolecao -n data_driven_schema_configs"
 ``` 
 
-Execute comando abaixo para indexar 
+O Solr inclui a ferramenta em bin/post para facilitar a indexação de vários tipos de documentos. Execute comando abaixo para indexar os arquivos:
 
-### Passo 2: 
+```bash
+$ /opt/solr/bin/post -c meusarquivos diretoriodosarquivos/*
+``` 
 
 
-### Passo 3:
+### Passo 2 - Consulta 
+
+
+### Passo 3 - Ranqueamento
 
 
 
