@@ -56,7 +56,7 @@ $ sudo bash ./install_solr_service.sh solr-8.9.0.tgz
 
 ### Passo 3 - Start / Stop Solr 
 
-Com o Solr configurado como um serviço no sistema operacional, podemos simplesmente usar os comandos abaixo para iniciar, parar e charcar seu status. 
+Com o Solr configurado como um serviço no sistema operacional, podemos simplesmente usar os comandos abaixo para iniciar, parar e charcar seu status: 
 
 ```bash
 $ sudo service solr start
