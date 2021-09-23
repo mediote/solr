@@ -8,9 +8,29 @@ O [Apache Solr](https://solr.apache.org/)(Searching On Lucene Replication) é um
  
 Escrito em Java, o Solr tem APIs RESTful XML / HTTP e JSON e bibliotecas de cliente para muitas linguagens de programação, como Java, Phyton, Ruby, C #, PHP e muitos mais, sendo usados para construir aplicativos de análise de big data e baseados em pesquisa para sites, bancos de dados, arquivos, etc.
  
-O Solr recebe dados estruturados, semiestruturados e não estruturados de várias fontes, os armazena e indexa e os disponibiliza para pesquisa quase em tempo real. Solr também é usado por seus recursos analíticos, permitindo que você faça pesquisas facetadas de produtos, agregação de eventos de log / segurança, análises de mídia social e assim por diante.
+O Solr recebe dados estruturados, semiestruturados e não estruturados de várias fontes, os armazena e indexa e os disponibiliza para pesquisa quase em tempo real. Solr também é usado por seus recursos analíticos, permitindo que você faça pesquisas facetadas de produtos, agregação de eventos de log / segurança, análises de mídia social e assim por diante. Tem suporte para arquitetura multi-tenant que permite dimensionar, distribuir e gerenciar índices para aplicativos de grande escala.
 
- 
+Resumindo, o Solr é uma plataforma de pesquisa estável, confiável e tolerante a falhas com um rico conjunto de funções básicas que permitem melhorar a experiência do usuário e a modelagem de dados subjacente. Por exemplo, entre as funcionalidades que ajudam a oferecer uma boa experiência do usuário, podemos nomear verificação ortográfica, pesquisa geoespacial, facetação ou sugestão automática, enquanto os desenvolvedores de back-end podem se beneficiar de recursos como junções, agrupamento, capacidade de importar formatos de documentos ricos e muitos mais.
+
+No entanto, para entender completamente como usá-lo, abaixo estão os principais recursos do Solr:
+
+### Full-text Search
+
+O Solr fornece recursos avançados de pesquisa em tempo real,como pesquisa por campo, consultas booleanas, consultas de frase, consultas difusas, verificação ortográfica, curingas, junções, agrupamento, preenchimento automático e muito mais em diferentes tipos de dados.
+
+### Interfaces de administração 
+
+O Solr fornece uma interface  Web responsiva integrada que permite que você execute tarefas administrativas, como gerenciamento de registro, adição, exclusão, atualização ou pesquisa de documentos.
+
+### Alta escalabilidade e flexibilidade
+
+Ferramentas como o Apache ZooKeeper, permitem escalar o Solr, com replicação de índice automatizada, distribuição, balanceamento de carga e failover e recuperação automatizados. Portanto, dependendo das necessidades e do tamanho de sua operação, o Solr pode ser implantado em qualquer tipo de sistema, como autônomo, distribuído, nuvem, tudo isso ao mesmo tempo em que simplifica a configuração.
+
+### Suporte multilíngue
+
+Além do inglês, o Solr trabalha com vários outros idiomas, como chinês, japonês, coreano, árabe, alemão, francês, espanhol e muitos outros. Possui detecção de idioma embutida e fornece ferramentas de análise de texto específicas para cada idioma.
+
+
 ### Quem usa
 
 O Solr é usado como mecanismo de busca nas maiores empresas da Internet, provendo uma poderosa ferramenta de busca aos usuários. Entre essas empresas estão gigantes como a Apple, Netflix, Disney, AT&T, CNET, Cisco, AOL, NASA, MTV, Goldman Sachs, Cloudspace, Sears, GameSpot, eHarmony, TicketMaster, The Guardian, eBay, StubHub, IBM, Adobe, Best Buy, DuckDuckGo, Instagram e a Casa Branca (sede do governo dos EUA).
