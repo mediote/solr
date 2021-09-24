@@ -130,7 +130,7 @@ Execute o comando abaixo para criar a coleção usando levando em consideração
 $ sudo su - solr -c "/opt/solr/bin/solr create -c minhacolecao -n data_driven_schema_configs"
 ``` 
 
-O Solr inclui a ferramenta em bin/post para facilitar a indexação de vários tipos de documentos. Execute comando abaixo para indexar os arquivos:
+O Solr inclui a ferramenta em bin/post para facilitar a indexação de vários tipos como: json, xml, csv, pdf, doc, docx, ppt, pptx, xls, xlsx, odt, odp, ods, ott, otp, ots, rtf, htm, html, txt e log. Execute comando abaixo para indexar os arquivos:
 
 ```bash
 $ /opt/solr/bin/post -c meusarquivos diretoriodosarquivos/*
