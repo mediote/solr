@@ -32,9 +32,9 @@ No entanto, para entender completamente como usá-lo, abaixo estão alguns dos p
 
 * <b>Document:</b> A unidade básica de informação do Solr é um documento, que é um conjunto de dados que descreve algo. 
 
-* <b>Field:</b> No universo Solr, os documentos são compostos por campos, que são informações mais específicas.
+* <b>Field:</b> No universo Solr, os documentos são compostos por campos (field), que são informações mais específicas. Diversas operações e transformações são feitas sobre os campos, como stemming, correção ortográfica, tokenização etc.
 
-* <b>Core:</b> No Solr, o termo núcleo é usado para se referir a um único índice.
+* <b>Core:</b> No Solr, o termo núcleo é usado para se referir a um único índice. Os cores centralizam todas informações, configurações e consultas que podem ser feitas sobre determinado indice.
 
 
 ## Principais aquivos
