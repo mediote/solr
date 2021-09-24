@@ -4,7 +4,7 @@
 [![PyPI - License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/mediote/twAnalytics/blob/main/LICENSE)
 
 # Apache Solr
-O [Apache Solr](https://solr.apache.org/)(Searching On Lucene Replication), é um mecanismo de busca gratuito de código aberto, baseado na biblioteca Apache Lucene. Está disponível desde 2004, e é um dos mecanismos de pesquisa mais populares disponíveis hoje em todo o mundo. O Solr, no entanto, é mais do que um mecanismo de busca, também é frequentemente usado como um banco de dados NoSQL baseado em documento, com suporte transacional que pode ser usado para fins de armazenamento.
+O [Apache Solr](https://solr.apache.org/) (Searching On Lucene Replication), é um mecanismo de busca gratuito de código aberto, baseado na biblioteca Apache Lucene. Está disponível desde 2004, e é um dos mecanismos de pesquisa mais populares disponíveis hoje em todo o mundo. O Solr, no entanto, é mais do que um mecanismo de busca, também é frequentemente usado como um banco de dados NoSQL baseado em documento, com suporte transacional que pode ser usado para fins de armazenamento.
  
 Escrito em Java, o Solr tem APIs RESTful XML / HTTP e JSON e bibliotecas de cliente para muitas linguagens de programação, como Java, Phyton, Ruby, C #, PHP e muitos mais, sendo usados para construir aplicativos de análise de big data e baseados em pesquisa para sites, bancos de dados, arquivos, etc.
  
