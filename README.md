@@ -18,7 +18,7 @@ No entanto, para entender completamente como usá-lo, abaixo estão alguns dos p
 
 ## Recursos
 
-* <b>Full-text Search:</b> O Solr fornece recursos avançados de pesquisa em tempo real,como pesquisa por campo, consultas booleanas, consultas de frase, consultas difusas, verificação ortográfica, curingas, junções, agrupamento, preenchimento automático e muito mais em diferentes tipos de dados.
+* <b>Full-text Search:</b> O Solr fornece recursos avançados de pesquisa em tempo real,como pesquisa por campo, consultas booleanas, consultas de frase, consultas difusas, verificação ortográfica, curingas, junções, agrupamento, preenchimento automático, qyery re-ranking e muito mais em diferentes tipos de dados.
 
 * <b>Interfaces de administração:</b> Interface web responsiva integrada que permite que você execute tarefas administrativas, como gerenciamento de registro, adição, exclusão, atualização ou pesquisa de documentos.
 
@@ -164,4 +164,8 @@ As consultas no Solr, podem ser feitas diretamente pelo painel de administraçã
 
 ### Passo 3 - Ranqueamento
 
-O Solr classifica os resultados por sua pontuação de relevância - os resultados mais relevantes aparecem no topo dos documentos correspondidos.
+# Experimentos realizados
+
+As consultas, foram executadas a partir das informações contidas nos arquivos de tópicos de forma automatica. Para isso
+Os arquivos precisaram ser convertidos para um formato que o Solr pudesse indexar, então foi feito um um algoritmo que carrega todos os aquivos no formato TREC e gera uma saída equivalente no formato JSON. Foi feito outro algoritimo que a partir das informações contidas nos arquivos de tópicos, executa requisições HTTP ao servidor Solr instalado localmente e converte a saida no formato TREC_EVAL.
+No Solr foram criados diversos índices e testadas diversas configurações como: filtros para remoção de stopwords, texto em caixa baixa e stemmers.
