@@ -63,7 +63,7 @@ O Solr é usado como mecanismo de busca nas maiores empresas da Internet, proven
 
 ## Instalação
 
-O Solr pode ser instalado em sistemas GNU/Linux, macOS e Windows. Neste trabalho, foi instalada a versão 8.9.0 do Solr foi no sistema operacional Ubuntu 20.04
+O Solr pode ser instalado em sistemas GNU/Linux, macOS e Windows. 
 
 ### Passo 1 - Instalando o Java
 
@@ -80,7 +80,7 @@ $ sudo apt install openjdk-11-jdk
 
 Com a JRE instalada corretamente, podemos prosseguir para os prórximos passos da instalação.
 
-### Passo 2 - Instalando o Solr no Ubuntu
+### Passo 2 - Instalando o Solr 8.9.0 no Ubuntu 20.04
 O procedimento de instalação do Solr detalhado a seguir, foi executado no sistema operacional Ubuntu 20.04, e basicamente, se resume a baixar e descompactar o Solr em algum diretŕorio de sua preferência.
 
 ```bash
