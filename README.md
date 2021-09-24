@@ -37,7 +37,7 @@ No entanto, para entender completamente como usá-lo, abaixo estão alguns dos p
 * <b>Core:</b>No Solr, o termo núcleo é usado para se referir a um único índice.
 
 
-## Principais ferramentas e aquivos de configuração para iniciar com o Solr
+## Principais aquivos
 
 ### solrconfig.xml
 
