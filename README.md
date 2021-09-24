@@ -30,11 +30,11 @@ No entanto, para entender completamente como usá-lo, abaixo estão alguns dos p
 
 É importante entender alguns termos-chave usados para iniciar o aprendizado do Solr.
 
-* <b>Document:</b>A unidade básica de informação do Solr é um documento, que é um conjunto de dados que descreve algo. 
+* <b>Document :</b>A unidade básica de informação do Solr é um documento, que é um conjunto de dados que descreve algo. 
 
-* <b>Field:</b>No universo Solr, os documentos são compostos por campos, que são informações mais específicas.
+* <b>Field :</b>No universo Solr, os documentos são compostos por campos, que são informações mais específicas.
 
-* <b>Core:</b>No Solr, o termo núcleo é usado para se referir a um único índice.
+* <b>Core :</b>No Solr, o termo núcleo é usado para se referir a um único índice.
 
 
 ## Principais aquivos
