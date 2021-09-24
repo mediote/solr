@@ -167,5 +167,6 @@ As consultas no Solr, podem ser feitas diretamente pelo painel de administraçã
 # Experimentos realizados
 
 As consultas, foram executadas a partir das informações contidas nos arquivos de tópicos de forma automatica. Para isso
-Os arquivos precisaram ser convertidos para um formato que o Solr pudesse indexar, então foi feito um um algoritmo que carrega todos os aquivos no formato TREC e gera uma saída equivalente no formato JSON. Foi feito outro algoritimo que a partir das informações contidas nos arquivos de tópicos, executa requisições HTTP ao servidor Solr instalado localmente e converte a saida no formato TREC_EVAL.
-No Solr foram criados diversos índices e testadas diversas configurações como: filtros para remoção de stopwords, texto em caixa baixa e stemmers.
+Os arquivos da coleção de testes precisaram ser convertidos para um formato que o Solr pudesse indexar, então foi feito um um algoritmo que carrega todos os aquivos no formato TREC e gera uma saída equivalente no formato JSON. Foi feito outro algoritimo que a partir das informações contidas nos arquivos de tópicos, executa requisições HTTP ao servidor Solr instalado localmente e converte a saída no formato TREC_EVAL.
+
+No Solr foram criados diversos índices com a coleção de testes e testadas diversas configurações como: filtros para remoção de stopwords, texto em caixa baixa e stemmers.
