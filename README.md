@@ -26,25 +26,34 @@ No entanto, para entender completamente como usá-lo, abaixo estão alguns dos p
 
 * <b>Suporte multilíngue:</b> Além do inglês, o Solr trabalha com vários outros idiomas, como chinês, japonês, coreano, árabe, alemão, francês, espanhol e muitos outros. Possui detecção de idioma embutida e fornece ferramentas de análise de texto específicas para cada idioma.
 
-## Terminologia do Solr: Compreendendo os conceitos básicos usados no Solr 
+## Termos-chave 
 
-Antes de mergulhar no processo de funcionamento do Solr, é importante entender os termos-chave usados ao trabalhar com o Solr.
+É importante entender alguns termos-chave usados para iniciar o aprendizado do Solr.
 
-* <b>Documento:</b> Um documento é uma unidade básica de informação no Solr que pode ser armazenada e indexada. Os documentos são armazenados em coleções. Eles podem ser adicionados, excluídos e atualizados, normalmente por meio de manipuladores de índice.
+* <b>Document:</b>A unidade básica de informação do Solr é um documento, que é um conjunto de dados que descreve algo. 
 
-* <b>Campo:</b> O campo armazena os dados em um documento que contém um par de chave-valores, onde a chave indica o nome do campo e o valor dos dados reais do campo. Solr suporta diferentes tipos de campo: float, long, double, date, date, text, integer, boolean, etc.
+* <b>Field:</b>No universo Solr, os documentos são compostos por campos, que são informações mais específicas.
 
-* <b>Coleção:</b> Uma coleção Solr é um grupo de fragmentos / núcleos que formam um único índice lógico. Cada coleção tem seu próprio conjunto de configuração e definição de esquema, que pode ser diferente de outras coleções.
+* <b>Core:</b>No Solr, o termo núcleo é usado para se referir a um único índice.
 
-* <b>Fragmento:</b> Os fragmentos permitem que você divida e armazene seu índice em uma ou mais partes, portanto, um fragmento é uma fatia de uma coleção. Cada fragmento vive em um nó e é hospedado em um núcleo.
 
-* <b>Nó:</b> É uma única instância da JVM executando Solr, também conhecido como servidor Solr. Um nó pode hospedar vários fragmentos.
+## Principais ferramentas e aquivos de configuração para iniciar com o Solr
 
-* <b>Réplica:</b> Uma réplica é uma cópia física de um shard executado como um núcleo em um nó. Uma dessas cópias é um líder (veja abaixo). Outras cópias do mesmo fragmento replicarão os dados do líder. Leia mais sobre os tipos de réplicas e replicação Solr aqui:
+### solrconfig.xml
 
-* <b>Líderes:</b> O líder é uma réplica do fragmento que envia solicitações do SolrCloud para o resto das réplicas no fragmento sempre que houver uma atualização de índice, como adições ou exclusões de documentos. Se o líder cair, uma das outras réplicas será eleita líder automaticamente.
+É o arquivo de configuração com a maioria dos parâmetros que afetam o próprio Solr.
 
-* <b>Cacho:</b> Específico para SolrCloud, um cluster é composto de um ou mais nós que armazenam todos os dados, fornecendo indexação distribuída e recursos de pesquisa em todos os nós. Leia mais sobre SolrCloud aqui.
+Através dele você configura recursos importantes, como:
+
+* request handlers, que processam as solicitações ao Solr, como solicitações para adicionar documentos ao índice ou solicitações para retornar resultados para uma consulta
+* listeners, processos que "ouvem" eventos específicos relacionados à consulta; podem ser usados para criar gatilhos e executar algum código, como invocar algumas consultas comuns para criar caches
+* request dispatcher para gerenciar comunicações HTTP
+* interface da Web de administração
+* parâmetros relacionados à replicação e duplicação (esses parâmetros são abordados em detalhes em Legacy Scaling and Distribution)
+
+### managed-schema ou schema.xml
+Este aquivo informa ao Solr o que fazer com os dados recebidos ao construir um índice ou realizar uma query. Define como o Solr deve interpretar os dados em um campo e como o campo pode ser consultado; como analisar tokenizar ou filtrar os dados ou ainda aplicar stemmers, remoção de stop-words dentre outros.
+
 
 ## Quem usa
 
