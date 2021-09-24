@@ -10,7 +10,7 @@ Escrito em Java, o Solr tem APIs RESTful XML / HTTP e JSON e bibliotecas de clie
  
 O Solr recebe dados estruturados, semiestruturados e não estruturados de várias fontes, os armazena e indexa e os disponibiliza para pesquisa quase em tempo real. Solr também é usado por seus recursos analíticos, permitindo que você faça pesquisas facetadas de produtos, agregação de eventos de log / segurança, análises de mídia social e assim por diante. Tem suporte para arquitetura multi-tenant que permite dimensionar, distribuir e gerenciar índices para aplicativos de grande escala.
 
-As consultas no Solr, são solicitações HTTP simples e a resposta padrão é um documento no formato JSON, mas também pode ser XML, CSV ou outros formatos, como: xml, csv, pdf, doc, docx, ppt, pptx, xls, xlsx, odt, odp, ods, ott, otp, ots, rtf, htm, html, txt e log. Isso significa que uma ampla variedade de clientes será capaz de usar o Solr, de outros aplicativos da web a clientes de navegador, aplicativos de cliente rico e dispositivos móveis. Qualquer plataforma capaz de HTTP pode se comunicar com o Solr. 
+As consultas no Solr, são solicitações HTTP simples e a resposta padrão é um documento no formato JSON, mas também pode ser XML, CSV ou outros formatos. Isso significa que uma ampla variedade de clientes será capaz de usar o Solr, de outros aplicativos da web a clientes de navegador, aplicativos de cliente rico e dispositivos móveis. Qualquer plataforma capaz de HTTP pode se comunicar com o Solr. 
 
 Resumindo, o Solr é uma plataforma de pesquisa estável, confiável e tolerante a falhas com um rico conjunto de funções básicas que permitem melhorar a experiência do usuário e a modelagem de dados subjacente. Por exemplo, entre as funcionalidades que ajudam a oferecer uma boa experiência do usuário, podemos nomear verificação ortográfica, pesquisa geoespacial, facetação ou sugestão automática, enquanto os desenvolvedores de back-end podem se beneficiar de recursos como junções, agrupamento, capacidade de importar formatos de documentos ricos e muitos mais.
 
@@ -135,6 +135,7 @@ O Solr inclui a ferramenta em bin/post para facilitar a indexação de vários t
 ```bash
 $ /opt/solr/bin/post -c meusarquivos diretoriodosarquivos/*
 ``` 
+Os formatos que o Solr pode indexar são:json, xml, csv, pdf, doc, docx, ppt, pptx, xls, xlsx, odt, odp, ods, ott, otp, ots, rtf, htm, html, txt e log. 
 
 ### Passo 2 - Consulta 
 
