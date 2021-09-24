@@ -48,7 +48,7 @@ Através dele você configura recursos importantes, como:
 * request handlers, que processam as solicitações ao Solr, como solicitações para adicionar documentos ao índice ou solicitações para retornar resultados para uma consulta
 * listeners, processos que "ouvem" eventos específicos relacionados à consulta; podem ser usados para criar gatilhos e executar algum código, como invocar algumas consultas comuns para criar caches
 * request dispatcher para gerenciar comunicações HTTP
-* interface da Web de administração
+* interface Web de administração
 * parâmetros relacionados à replicação e duplicação (esses parâmetros são abordados em detalhes em Legacy Scaling and Distribution)
 
 ### managed-schema ou schema.xml
