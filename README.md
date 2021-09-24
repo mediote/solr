@@ -135,7 +135,7 @@ O Solr inclui a ferramenta em bin/post para facilitar a indexação de vários t
 ```bash
 $ /opt/solr/bin/post -c meusarquivos diretoriodosarquivos/*
 ``` 
-Os formatos que o Solr pode indexar são:json, xml, csv, pdf, doc, docx, ppt, pptx, xls, xlsx, odt, odp, ods, ott, otp, ots, rtf, htm, html, txt e log. 
+Os formatos que o Solr pode indexar são: json, xml, csv, pdf, doc, docx, ppt, pptx, xls, xlsx, odt, odp, ods, ott, otp, ots, rtf, htm, html, txt e log. 
 
 ### Passo 2 - Consulta 
 
