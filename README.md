@@ -151,7 +151,7 @@ Os formatos que o Solr pode indexar são: json, xml, csv, pdf, doc, docx, ppt, p
 
 ### Passo 3 - Ranqueamento
 
-O retorno das consultas, por padrão são os documentos e, formato JSON ranqueados por sua relevancia, conforme s saída abaixo:
+O retorno das consultas, por padrão são os documentos no formato JSON ranqueados por sua relevancia, conforme s saída abaixo:
 
 ```json
 {
