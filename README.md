@@ -41,7 +41,7 @@ No entanto, para entender completamente como usá-lo, abaixo estão alguns dos p
 
 ### solrconfig.xml
 
-É o arquivo de configuração com a maioria dos parâmetros que afetam o próprio Solr.
+É o arquivo de configuração que controla o comportamento de alto nível do Solr.
 
 Através dele você configura recursos importantes, como:
 
@@ -52,8 +52,9 @@ Através dele você configura recursos importantes, como:
 * parâmetros relacionados à replicação e duplicação (esses parâmetros são abordados em detalhes em Legacy Scaling and Distribution)
 
 ### managed-schema ou schema.xml
-Este aquivo informa ao Solr o que fazer com os dados recebidos ao construir um índice ou realizar uma query. Define como o Solr deve interpretar os dados em um campo e como o campo pode ser consultado; como analisar tokenizar ou filtrar os dados ou ainda aplicar stemmers, remoção de stop-words dentre outros.
 
+O esquema define um documento como uma coleção de campos. Você pode definir os tipos de campo e os próprios campos. As definições de tipo de campo são poderosas e incluem informações sobre como o Solr processa valores de campo de entrada e valores de consulta.
+Este aquivo informa ao Solr o que fazer com os dados recebidos ao construir um índice ou realizar uma query. Define como o Solr deve interpretar os dados em um campo e como o campo pode ser consultado; como analisar tokenizar ou filtrar os dados ou ainda aplicar stemmers, remoção de stop-words dentre outros.
 
 ## Quem usa
 
@@ -167,7 +168,7 @@ As consultas no Solr, podem ser feitas diretamente pelo painel de administraçã
 
 # Experimentos realizados
 
-Os arquivos da coleção de testes foram convertidos em um formato que o Solr pudesse indexar, então foi feito um um algoritmo que carrega todos os aquivos TREC e gera uma saída equivalente JSON. 
-Para realizar as consultas, foi feito outro algoritimo que a partir das informações contidas nos arquivos de tópicos, executa requisições HTTP ao servidor Solr instalado localmente e converte a saída no formato TREC_EVAL.
+Os arquivos da coleção de testes, foram convertidos em um formato que o Solr pudesse indexar, com o auxilio de um algoritmo de autoria pópria. O algoritmo carrega todos os aquivos no formato TREC e gera uma saída equivalenteno formato JSON. 
+Para realizar as consultas, foi usado outro algoritimo, tmbém de autoria própria, que a partir das informações contidas nos arquivos de tópicos, executa requisições HTTP ao servidor Solr instalado localmente e converte a saída no formato TREC_EVAL.
 
 No Solr, foram criados diversos índices com a coleção de testes e executadas consultas com diversas configurações como: filtros para remoção de stopwords, texto em caixa baixa e stemmers.
