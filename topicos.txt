@@ -1,0 +1,357 @@
+<top>
+<num> 251 </num>
+<PT-title> Medicina alternativa </PT-title>
+<PT-desc> Encontrar documentos sobre tratamentos que empreguem medicina natural ou alternativa. Aqui são incluídas terapias como a acupuntura, a hemopatia, a quiroprática, entre outras. </PT-desc>
+<PT-narr> Documentos relevantes devem fornecer informação, específica ou genérica, sobre o uso de tratamentos ou técnicas de medicina natural ou alternativa. </PT-narr>
+</top>
+
+<top>
+<num> 252 </num>
+<PT-title> Sistemas de reforma e pensões na Europa </PT-title>
+<PT-desc> Encontrar documentos sobre os esquemas de pensões e benefícios na reforma em qualquer país europeu. </PT-desc>
+<PT-narr> Documentos relevantes devem conter informação sobre os actuais esquemas de pensões em estados europeus individuais. Informação de interesse engloba as idades de reforma mínima e máxima, assim como a forma de calcular o valor das pensões de reforma. Planos de reformulação dos esquemas de reforma não são relevantes. </PT-narr>
+</top>
+
+<top>
+<num> 253 </num>
+<PT-title> Países com pena de morte </PT-title>
+<PT-desc> Em quais países ainda é usada, ou pelo menos constitucionalmente permitida, a pena de morte? </PT-desc>
+<PT-narr> Documentos que afirmem de forma explícita que a constituição de um dado estado permite a pena capital são obviamente relevantes. Documentos de relatos de sentenças de morte específicas também são relevantes caso o estado ou país em questão seja explicitamente mencionado. </PT-narr>
+</top>
+
+<top>
+<num> 254 </num>
+<PT-title> Danos provocados por terramotos </PT-title>
+<PT-desc> Encontrar documentos que descrevam os danos causados a pessoas e bens por tremores de terra e que especifiquem a área afetada. </PT-desc>
+<PT-narr> Documentos relevantes devem fornecer informações sobre os danos a edifícios e outros bens materiais ou indivíduos como resultado de um terramoto. A localização geográfica (país, região, cidade) afetada pelo tremor de terra deve ser também mencionada. </PT-narr>
+</top>
+
+<top>
+<num> 255 </num>
+<PT-title> Viciados na Internet </PT-title>
+<PT-desc> O uso frequente da Internet produz habituação? </PT-desc>
+<PT-narr> Documentos relevantes devem discutir se o uso habitual da Internet pode levar a um vício semelhante ao provocado pelas drogas, conduzindo a dependência fisiológica ou psicológica. </PT-narr>
+</top>
+
+<top>
+<num> 256 </num>
+<PT-title> Doença de Creutzfeldt-Jakob </PT-title>
+<PT-desc> Encontrar documentos que descrevam os sintomas de qualquer variante da doença de Creutzfeldt-Jakob ou relatem a ligação desta doença à encefalopatia espongiforme (BSE), também conhecida como "doença das vacas loucas". </PT-desc>
+<PT-narr> Documentos relevantes descrevem os sintomas de pessoas suspeitas ou diagnosticadas com a doença de Creutzfeldt-Jakob, ou focam relatos de ligações entre esta doença e a BSE, também conhecida como «doença das vacas loucas». </PT-narr>
+</top>
+
+<top>
+<num> 257 </num>
+<PT-title> Limpeza étnica nos Balcãs </PT-title>
+<PT-desc> Encontrar documentos que relatam incidentes específicos de genocídio ou crimes contra a humanidade na antiga Jugoslávia ou na Península Balcânica. </PT-desc>
+<PT-narr> Documentos relevantes devem descrever casos específicos de limpeza étnica ou genocídio na região dos Balcãs e, em particular, na Bósnia, Kosovo, Croácia e Macedónia. 
+</PT-narr>
+</top>
+
+<top> 
+<num> 258 </num> 
+<PT-title> Impacto da "fuga de cérebros" </PT-title> 
+<PT-desc> Encontrar documentos sobre o problema causado pela fuga de cérebros ("brain drain") e informação sobre os países e regiões mais afectados. </PT-desc> 
+<PT-narr> Documentos relevantes devem citar problemas causados pela transferência de pessoal altamente qualificado ou força de trabalho especializada das regiões do mundo mais pobres ou em desenvolvimento para áreas mais prósperas. Os países em questão devem ser identificados. </PT-narr> 
+</top> 
+
+<top> 
+<num> 259 </num> 
+<PT-title> Urso de Ouro </PT-title> 
+<PT-desc> Encontrar documentos mencionando filmes galardoados com o Urso de Ouro no Festival de Cinema de Berlim. </PT-desc> 
+<PT-narr> Qualquer documento mencionando um filme que ganhou um Urso de Ouro é relevante. </PT-narr> 
+</top> 
+
+<top>
+<num> 260 </num>
+<PT-title> Legislação anti-tabagista </PT-title>
+<PT-desc> Encontrar documentos que descrevam leis ou qualquer legislação anti-tabaco que proíba o fumo em locais públicos. </PT-desc>
+<PT-narr> Documentos relevantes devem fornecer informações sobre leis, regras ou políticas anti-tabaco atualmente em vigor num país. A pena para as transgressões também pode ser especificada. Porém documentos sobre propostas de lei anti-tabagistas não são relevantes. </PT-narr>
+</top>
+
+<top>
+<num> 261 </num>
+<PT-title> Adivinhação </PT-title>
+<PT-desc> Como é que os videntes prevêem o futuro? </PT-desc>
+<PT-narr> Documentos relevantes devem mencionar qualquer das várias técnicas empregadas por videntes ou adivinhos para prever o futuro (i.e., astrologia, leitura das palmas da mão, bolas de cristal, leitura das cartas ou cartomância). Previsões que não informam sobre a técnica usada não são relevantes.
+</PT-narr>
+</top>
+
+<top>
+<num> 262 </num>
+<PT-title> Espectáculos de beneficiência </PT-title>
+<PT-desc> Que causas ou instituições humanitárias recebem fundos dos concertos de beneficência? </PT-desc>
+<PT-narr> Documentos relevantes devem relatar espectáculos específicos com fins humanitários e fornecer informação sobre as causas ou instituições de solidariedade ou caridade para que revertem os fundos reunidos pelo concerto. </PT-narr>
+</top>
+
+<top>
+<num> 263 </num>
+<PT-title> Disputas de arbitragem no futebol </PT-title>
+<PT-desc> Encontrar documentos nos quais decisões feitas por um árbitro num jogo de futebol são criticadas. </PT-desc>
+<PT-narr> Documentos relevantes relatam jogos de futebol nos quais o árbitro fez uma decisão discutida ou discutível.
+</PT-narr>
+</top>
+
+<top>
+<num> 264 </num>
+<PT-title> Contrabando de material radioativo </PT-title>
+<PT-desc> Encontrar documentos sobre o tráfico internacional ilegal de substâncias radioactivas e materiais nucleares. </PT-desc>
+<PT-narr> Qualquer documento que relate casos de tráfico ilegal ou contrabando de material nuclear ou lixo radioactivo, civil e militar, além das fronteiras nacionais é relevante. </PT-narr>
+</top>
+
+<top>
+<num> 265 </num>
+<PT-title> Aquisições do Deutsche Bank </PT-title>
+<PT-desc> Encontrar os nomes das empresas que foram total ou parcialmente adquiridas pelo Deutsche Bank ou daquelas que ainda estão em fase de negociação. </PT-desc>
+<PT-narr> Documentos relevantes listam firmas que foram compradas ou adquiridas pelo Deutsche Bank; relatos de negociações decorrentes também são importantes. </PT-narr>
+</top>
+
+<top>
+<num> 266 </num>
+<PT-title> Discriminação contra os ciganos na Europa </PT-title>
+<PT-desc> Encontrar documentos relatando episódios recentes de perseguição, discriminação ou violência contra indivíduos de etnia cigana na Europa. </PT-desc>
+<PT-narr> De interesse são documentos descrevendo, na Europa nos dias de hoje, qualquer tipo de acção contra ciganos, ou casos de ciganos discriminados ou mal tratados. </PT-narr>
+</top>
+
+<top>
+<num> 267 </num>
+<PT-title> Melhor Filme Estrangeiro </PT-title>
+<PT-desc> Quais foram os filmes candidatos ao Oscar de Melhor Filme Estrangeiro? </PT-desc>
+<PT-narr> Documentos relevantes devem indicar o título e nacionalidade dos filmes indicados para o Óscar na categoria de Melhor Filme em Língua Estrangeira. </PT-narr>
+</top>
+
+<top>
+<num> 268 </num>
+<PT-title> Ética e a Clonagem Humana </PT-title>
+<PT-desc> Encontrar documentos que tragam relatos sobre os problemas éticos e morais relacionados à clonagem de seres humanos. </PT-desc>
+<PT-narr> Documentos relevantes devem relatar discussões dos problemas éticos levantados pela possibilidade da criação de clones humanos. Propostas de leis para a proibição da clonagem humana por razões éticas também são relevantes. Porém relatos sobre os limites tecnológicos ou as dificuldades dos métodos de clonagem quando aplicados a seres humanos não têm relevância. </PT-narr>
+</top>
+
+<top> 
+<num> 269 </num> 
+<PT-title> Ratificação de tratados </PT-title> 
+<PT-desc> Encontrar documentos que mencionem a ratificação oficial de tratados internacionais. </PT-desc> 
+<PT-narr> Documentos relevantes devem mencionar o tratado ou país ou países que o ratificam. Documentos que apenas mencionem a assinatura de um país ou se ele é parte de um tratado não são relevantes. </PT-narr> 
+</top> 
+
+<top>
+<num> 270 </num>
+<PT-title> Concorrentes da Microsoft </PT-title>
+<PT-desc> Quais companhias são concorrentes ou rivais, reais ou potenciais, da Microsoft? </PT-desc>
+<PT-narr> Documentos relevantes devem mencionar os nomes das empresas que competem com a Microsoft. Os nomes dos produtos rivais também são relevantes.  </PT-narr>
+</top>
+
+<top>
+<num> 271 </num>
+<PT-title> Casamentos Gays </PT-title>
+<PT-desc> As uniões de casais homossexuais devem ser reconhecidas pelo Estado como casamentos legais? </PT-desc>
+<PT-narr> Documentos relevantes devem trazer discussões e debates sobre a questão de se as uniões entre pessoas do mesmo sexo devem ser legalmente reconhecidas ou não. São relevantes todas as opiniões e posições sobre o assunto, sejam aquelas feitas por entidades religiosas ou por indivíduos comuns.
+</PT-narr>
+</top>
+
+<top>
+<num> 272 </num>
+<PT-title> Biografia do presidente checo </PT-title>
+<PT-desc> Encontrar documentos que mencionem de forma específica a história pessoal, literária e humanista do presidente da República Checa, Vacláv Havel. </PT-desc>
+<PT-narr> Documentos relevantes devem fazer referência ao passado de dramaturgo e filósofo de Havel, além do fato de ser presidente da República Checa. </PT-narr>
+</top>
+
+<top>
+<num> 273 </num>
+<PT-title> Expansão da OTAN </PT-title>
+<PT-desc> Procurar discussões sobre a expansão da Organização do Tratado do Atlântico Norte (OTAN) incluindo antigos países do Leste Europeu, membros do pacto de Varsóvia. </PT-desc>
+<PT-narr> É relevante qualquer discussão a favor ou contra a expansão da NATO para o leste com a inclusão países anteriormente pertencentes, aliados ou sob a influência política da URSS. </PT-narr>
+</top>
+
+<top>
+<num> 274 </num>
+<PT-title> Bombas não detonadas da Segunda Guerra Mundial </PT-title>
+<PT-desc> Encontrar documentos sobre a descoberta de bombas não denotadas, minas terrestres ou outras munições abandonadas no período da Segunda Grande Guerra. </PT-desc>
+<PT-narr> Documentos relevantes devem especificar a localização onde as bombas foram encontradas intactas (ainda armadas) ou outras munições da época da 2ª Guerra Mundial. Informações sobre as medidas de escavação nas áreas em questão e ações de unidades anti-bombas também são de interesse. Não são pertinentes, porém, relatórios sobre depósitos oficiais de munições. </PT-narr>
+</top>
+
+<top>
+<num> 275 </num>
+<PT-title> Doenças relacionadas ao fumo </PT-title>
+<PT-desc> Quais doenças ou problemas médicos são suspeitos de estarem relacionados ao fumo ativo ou passivo? </PT-desc>
+<PT-narr> Documentos relevantes devem relatar informação específica sobre pelo menos uma doença que seja considerada consequência direta do fumo ou da exposição a ele. Discussões gerais sobre os riscos do fumo à saúde não são relevantes. </PT-narr> 
+</top>
+
+<top>
+<num> 276 </num>
+<PT-title> Subsídios agrícolas da UE </PT-title>
+<PT-desc> Encontrar informações sobre subsídios agrícolas na União Europeia. </PT-desc>
+<PT-narr> Documentos relevantes devem conter informações sobre os subsídios agrícolas da União Européia e suas respectivas políticas. Subsídios de outros países não são relevantes. </PT-narr>
+</top>
+
+<top>
+<num> 277 </num>
+<PT-title> Eutanásia por profissionais da saúde </PT-title>
+<PT-desc> Documentos relevantes devem relatar casos específicos de eutanásia declarada ou suspeita realizados em hospitais ou por médicos e enfermeiros. </PT-desc>
+<PT-narr> Todos os documentos que forneçam qualquer tipo de informação sobre possíveis ocorrências de eutanásia – provadas ou suspeitas – por médicos, enfermeiros ou outros profissionais da área médica são relevantes. Discussões gerais de leis para a regulamentação da eutanásia e afirmações de líderes religiosos ou políticos não são de nenhum interesse. </PT-narr>
+</top>
+
+<top>
+<num> 278 </num>
+<PT-title> Transporte para deficientes </PT-title>
+<PT-desc> Que problemas afrontam as pessoas com deficiência física quando se utilizam de transportes públicos e quais soluções estão sendo propostas ou adotadas? </PT-desc>
+<PT-narr> Documentos relevantes devem descrever as dificuldades defrontadas por deficientes físicos quando devem usar os transportes públicos ou relatar os progressos para a eliminação desses problemas. </PT-narr>
+</top>
+
+<top>
+<num> 279 </num> 
+<PT-title> Referendos suíços </PT-title> 
+<PT-desc> Encontrar documentos descrevendo a realização de referendos na Suíça. </PT-desc> 
+<PT-narr> Documentos relevantes devem mencionar as razões para ou os resultados de qualquer referendo na Suíça. </PT-narr> 
+</top> 
+
+<top>
+<num> 280 </num>
+<PT-title> Crime em Nova York </PT-title>
+<PT-desc> Encontrar informações sobre incidentes criminosos ou relatos de alterações na taxa de criminalidade na cidade de Nova Iorque. </PT-desc>
+<PT-narr> Documentos relevantes devem fornecer informações sobre atividades criminosas em Nova York. São de interesse descrições de episódios individuais de roubo, furto ou violência, bem como relatórios sobre as estatísticas da criminalidade e aumento ou diminuição da incidência de crimes na cidade.
+</PT-narr>
+</top>
+
+<top>
+<num> 281 </num>
+<PT-title> Radovan Karadzic </PT-title>
+<PT-desc> Encontrar material sobre o líder sérbio Radovan Karadzic, que examine sua história pessoal e forneça informação sobre o seu envolvimento em genocídio e crimes contra a humanidade. </PT-desc>
+<PT-narr> É de interesse qualquer informação sobre crimes cometidos por Karadzic, assim como sobre a acusação do Tribunal de Crimes de Guerra das Nações Unidas. </PT-narr>
+</top>
+
+<top>
+<num> 282 </num>
+<PT-title> Maus-tratos nas prisões </PT-title>
+<PT-desc> Encontrar relatos de casos específicos de maus tratos ou tortura de presos por carcereiros, polícia ou militares. </PT-desc>
+<PT-narr> Documentos relevantes devem fazer referência a incidentes específicos de maus-tratos, sevícias ou tortura, e fornecer dados sobre o local onde ocorreram. Discussões genéricas não são pertinentes. </PT-narr>
+</top>
+
+<top>
+<num> 283 </num>
+<PT-title> Filmes da série James Bond </PT-title>
+<PT-desc> Encontrar documentos que contenham os nomes dos filmes da série James Bond e/ou nomes dos atores que atuaram no papel de James Bond ao longo dos tempos. </PT-desc>
+<PT-narr> Documentos relevantes devem relatar os nomes dos vários filmes de Bond ou os nomes dos actores que protagonizaram o célebre agente secreto. </PT-narr>
+</top>
+
+<top>
+<num> 284 </num>
+<PT-title> Missões do vaivém espacial </PT-title>
+<PT-desc> Encontrar informação sobre missões de vaivém espacial, ou ônibus espacial, nas quais ocorreram dificuldades, atrasos, ou mesmo o fracasso das experiências realizadas. </PT-desc>
+<PT-narr> Qualquer documento que relate qualquer tipo de problemas ou desvios da agenda planeada da missão do vaivém ou ônibus é relevante. </PT-narr>
+</top>
+
+<top>
+<num> 285 </num>
+<PT-title> Movimentos anti-aborto </PT-title>
+<PT-desc> Encontrar documentos sobre ações dos membros de movimentos anti-aborto ou sobre esforços para restrição ou revogação das leis que regulamentem o aborto. </PT-desc>
+<PT-narr> São relevantes qualquer ação de membros do movimento anti-aborto, incluindo manifestações, marchas de protesto, ou ações específicas contra clínicas onde abortos são praticados. Declarações de pessoas a favor da revogação ou restrição do aborto legal também são de interesse. </PT-narr>
+</top>
+
+<top>
+<num> 286 </num>
+<PT-title> Lesões no futebol </PT-title>
+<PT-desc> Encontrar documentos que descrevam lesões de jogadores profissionais durante partidas de futebol ou treinos antes do jogo. </PT-desc>
+<PT-narr> Documentos relevantes devem descrever a ocorrência de qualquer tipo de lesão sofrida em partidas de futebol, incluindo contusões, distensões musculares, e danos à cartilagem, além de lesões mais sérias como fraturas ou concussões. Danos físicos durante os treinamentos também são pertinentes. </PT-narr>
+</top>
+
+<top>
+<num> 287 </num>
+<PT-title> Ações terroristas com reféns </PT-title>
+<PT-desc> Encontrar documentos que discutam ações de terroristas ou outros grupos militantes envolvendo reféns. </PT-desc>
+<PT-narr> Documentos relevantes descrevem casos concretos em que indivíduos foram feitos reféns de terroristas ou grupos militantes. São excluídas histórias ou filmes que incluam a captura de reféns, assim como quaisquer ações legais de antigos reféns. </PT-narr>
+</top>
+
+<top>
+<num> 288 </num>
+<PT-title> Importações de carros para os EUA </PT-title>
+<PT-desc> Que marcas automóveis são importadas para os Estados Unidos? </PT-desc>
+<PT-narr> Documentos relevantes devem conter informação sobre as marcas ou fabricantes de carros que são vendidos nos Estados Unidos, mas não produzidos nesse país. </PT-narr>
+</top>
+
+<top>
+<num> 289 </num> 
+<PT-title> Ilhas Malvinas </PT-title> 
+<PT-desc> Encontrar documentos com informação sobre as ilhas Malvinas </PT-desc> 
+<PT-narr> Documentos relevantes devem ser realmente sobre as Malvinas (também conhecidas como Falkland), não apenas mencioná-las, e devem fornecer alguma informação histórica, geográfica, económica ou social. </PT-narr> 
+</top> 
+
+<top>
+<num> 290 </num>
+<PT-title> Flutuação do preço do petróleo </PT-title>
+<PT-desc> Porque se altera o preço internacional do petróleo? </PT-desc>
+<PT-narr> Documentos relevantes descrevem as razões directas para as flutuações do preço do petróleo (i.e., redução de reservas, guerra, condições metereológicas). Documentos relatando alterações dos preços internacionais do petróleo sem mencionar as causas são irrelevantes. </PT-narr>
+</top>
+
+<top>
+<num> 291 </num>
+<PT-title> Imigrantes ilegais na UE </PT-title>
+<PT-desc> Encontrar documentos relacionados com o fenómeno da imigração ilegal para países da União Europeia, incluindo descrições de incidentes envolvendo a descoberta de imigrantes ilegais ou as suas actividades, ou apresentando afirmações mais gerais discutindo o problema. </PT-desc>
+<PT-narr> Documentos relevantes devem referir-se apenas à imigração ilegal para países da União Europeia. Qualquer informação sobre o papel desempenhado por grupos criminosos em esconder, transportar ou explorar essas pessoas é de interesse. </PT-narr>
+</top> 
+
+<top>
+<num> 292 </num>
+<PT-title> Reconstrução de cidades alemãs </PT-title>
+<PT-desc> Encontrar descrições sobre a reconstrução de monumentos ou edifícios importantes ou históricos que foram gravemente danificados ou destruídos em cidades alemãs bombardeadas durante a Segunda Guerra Mundial. </PT-desc>
+<PT-narr> Documentos relevantes devem descrever obras que foram reconstruídas após serem seriamente sujeitas a bombardeamento durante a Segunda Grande Guerra em cidades da Alemanha. Qualquer cidade alemã ao tempo da guerra é 
+pertinente, mas espera-se que a maioria dos documentos se refira a Berlim, Dresden ou Leipzig. </PT-narr>
+</top>
+
+<top>
+<num> 293 </num>
+<PT-title> Relações entre a China e a Formosa </PT-title>
+<PT-desc> Encontrar informação sobre as relações actuais entre a China e a Formosa (Taiwan), incluindo relatos de qualquer acção hostil da China contra a Formosa. </PT-desc>
+<PT-narr> Qualquer documento que forneça informação sobre as relações difíceis entre a China e a Formosa é relevante, incluindo relatos de esforços por parte da China para influenciar as relações de outros países com a Formosa. </PT-narr>
+</top>
+
+<top>
+<num> 294 </num>
+<PT-title> Força dos furações </PT-title>
+<PT-desc> Qual a velocidade dos ventos num furacão ou tufão? </PT-desc>
+<PT-narr> A força de um furacão é assinalada pela velocidade do vento. Documentos relevantes devem fornecer números concretos para a força de um tufão ou furacão ou para a velocidade do vento.
+</PT-narr>
+</top>
+
+<top> 
+<num> 295 </num> 
+<PT-title> Lavagem de dinheiro </PT-title> 
+<PT-desc> Encontrar documentos discutindo o crime de colarinho branco conhecido como branqueamento de dinheiro, que é o processo pelos quais os criminosos escondem os fundos ilicitamente adquiridos, convertendo-os em ganhos aparentemente legais. </PT-desc> 
+<PT-narr> Documentos relevantes devem fornecer informação sobre a lavagem de dinheiro por organizações criminosas – incluindo o uso de paraísos fiscais – ou descreverem medidas internacionais para a combater. </PT-narr> 
+</top> 
+
+<top> 
+<num> 296 </num> 
+<PT-title> Liszt tocado em público </PT-title> 
+<PT-desc> Encontrar documentos mencionando concertos ou outros espectáculos musicais onde são executadas obras do compositor húngaro Franz Liszt. </PT-desc> 
+<PT-narr> Documentos relevantes devem mencionar qualquer tipo de execução pública, concerto ou recital de obras de Liszt e devem também especificar onde teve lugar o espectáculo. Documentos que apenas mencionem a existência de obras de Liszt não são relevantes. </PT-narr> 
+</top> 
+
+<top> 
+<num> 297 </num> 
+<PT-title> Expulsões de pessoal diplomático </PT-title> 
+<PT-desc> Encontrar documentos descrevendo a expulsão de diplomatas de qualquer país. </PT-desc> 
+<PT-narr> Documentos relevantes devem mencionar o país de origem dos diplomatas e o país de onde foram expulsos. </PT-narr> 
+</top> 
+
+<top>
+<num> 298 </num>
+<PT-title> Centrais nucleares </PT-title>
+<PT-desc> Encontrar documentos relatando acidentes em centrais nucleares ou atômicas ou discutindo a probabilidade de um acidente e os potenciais riscos para a população. 
+</PT-desc>
+<PT-narr> Documentos relevantes devem especificar a localização ou o nome da central nuclear e, ou dar alguma informação sobre acidentes concretos, ou discutir riscos potenciais. </PT-narr>
+</top>
+
+<top>
+<num> 299 </num>
+<PT-title> Riscos das missões de manutenção de paz da ONU </PT-title>
+<PT-desc> Encontrar documentos relatando casos em que os elementos das tropas de manutenção de paz das Nações Unidas, os chamados capacetes azuis, foram feitos reféns, feridos ou mortos. </PT-desc>
+<PT-narr> Documentos relevantes devem fornecer pormenores sobre incidentes nos quais as vidas de militares pertencendo às tropas de manutenção de paz da ONU foram postas em risco ou ameaçadas. </PT-narr>
+</top>
+
+<top> 
+<num> 300 </num> 
+<PT-title> Prémios na lotaria </PT-title> 
+<PT-desc> Encontrar documentos sobre os vencedores de prémios na lotaria. </PT-desc> 
+<PT-narr> Apenas documentos relatando uma atribuição de prémios na lotaria e fornecendo informação sobre os vencedores, tal como nomes, passado, ou origens são relevantes. Documentos que apenas listam prémios a ser atribuídos não são relevantes. </PT-narr> 
+</top>
