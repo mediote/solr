@@ -8,8 +8,7 @@
 
 | Nome | Link                                                                                                                                                    |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| KNN  | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/solr/blob/main/solr.ipynb) |
-
+| Notebook  | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/solr/blob/main/solr.ipynb) |
 
 
 # Apache Solr
