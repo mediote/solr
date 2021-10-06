@@ -103,17 +103,17 @@ $ cd /opt
 ```
 
 ```bash
-$ sudo wget https://dlcdn.apache.org/lucene/solr/8.10.0/solr-8.10.0.tgz
+sudo wget https://dlcdn.apache.org/lucene/solr/8.10.0/solr-8.10.0.tgz
 ```
 
 Após baixado, os comandos a seguir, extraem e instalam o solr como um serviço no sistema operacional.
 
 ```bash
-$ sudo tar xzf solr-8.10.0.tgz solr-8.10.0/bin/install_solr_service.sh --strip-components=2
+sudo tar xzf solr-8.10.0.tgz solr-8.10.0/bin/install_solr_service.sh --strip-components=2
 ```
 
 ```bash
-$ sudo bash ./install_solr_service.sh solr-8.10.0.tgz
+sudo bash ./install_solr_service.sh solr-8.10.0.tgz
 ```
 
 ### Passo 3 - Solr Start / Stop / Status
@@ -121,15 +121,15 @@ $ sudo bash ./install_solr_service.sh solr-8.10.0.tgz
 Após configurar o Solr como serviço, podemos simplesmente usar os comandos abaixo para iniciar, parar e checar seu status:
 
 ```bash
-$ sudo service solr start
+sudo service solr start
 ```
 
 ```bash
-$ sudo service solr stop
+sudo service solr stop
 ```
 
 ```bash
-$ sudo service solr status
+sudo service solr status
 ```
 
 Se tudo ocorrer bem, a interface de administração do Solr pode ser acessada em http://localhost:8983.
@@ -143,13 +143,13 @@ Se tudo ocorrer bem, a interface de administração do Solr pode ser acessada em
 Execute o comando abaixo para criar a coleção usando levando em consideração o diretório no qual o Solr foi instalado:
 
 ```bash
-$ sudo su - solr -c "/opt/solr/bin/solr create -c meuindice -n data_driven_schema_configs"
+sudo su - solr -c "/opt/solr/bin/solr create -c meuindice -n data_driven_schema_configs"
 ```
 
 <p align='justify'> O Solr inclui a ferramenta em bin/post para facilitar a indexação. Execute comando abaixo para indexar os arquivos:</p>
 
 ```bash
-$ /opt/solr/bin/post -c meuindice diretoriodosarquivos/*
+/opt/solr/bin/post -c meuindice diretoriodosarquivos/*
 ```
 
 Os formatos que o Solr pode indexar são: json, xml, csv, pdf, doc, docx, ppt, pptx, xls, xlsx, odt, odp, ods, ott, otp, ots, rtf, htm, html, txt e log.
