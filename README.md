@@ -111,17 +111,23 @@ $ cd /opt
 ```
 
 ```bash
-sudo wget https://dlcdn.apache.org/lucene/solr/8.10.0/solr-8.10.0.tgz
+sudo wget https://www.apache.org/dyn/closer.lua/lucene/solr/8.11.2/solr-8.11.2.tgz?action=download
+```
+
+Renomeie o arquivo se necessário
+
+```bash
+mv solr-8.11.2.tgz\?action\=download solr-8.11.2.tgz
 ```
 
 Após baixado, os comandos a seguir, extraem e instalam o solr como um serviço no sistema operacional.
 
 ```bash
-sudo tar xzf solr-8.10.0.tgz solr-8.10.0/bin/install_solr_service.sh --strip-components=2
+sudo tar xzf solr-8.11.2.tgz solr-8.11.2/bin/install_solr_service.sh --strip-components=2
 ```
 
 ```bash
-sudo bash ./install_solr_service.sh solr-8.10.0.tgz
+sudo bash ./install_solr_service.sh solr-8.11.2.tgz
 ```
 
 ### Passo 3 - Solr Start / Stop / Status
